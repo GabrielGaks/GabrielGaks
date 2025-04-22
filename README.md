@@ -25,23 +25,13 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=9" 
-  />
+<p align="center">
+  <a href="https://github.com/GabrielGaks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas+do+GitHub&locale=pt-br&rank_icon=percentile" />
+  </a>
+  <a href="https://github.com/GabrielGaks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaks&layout=compact&theme=tokyonight&count_private=true&langs_count=10&custom_title=Tecnologias+Mais+Usadas" />
+  </a>
 </p>
-
-<!-- Atualizado em $(date -u '+%Y-%m-%d %H:%M:%S UTC') -->
