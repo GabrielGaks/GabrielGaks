@@ -7,7 +7,7 @@
 ☁️ Bootcamp Java + Cloud (Bradesco)  
 📊 Projetos com Java, Python, MySQL e automações  
 🚀 Buscando oportunidades como estagiário em back-end  
-📦 Empreendedor em tecnologia e importação de eletrônicos  
+📦 Empreendedor em tecnologia e importação de eletrônicos 
 
 ---
 
