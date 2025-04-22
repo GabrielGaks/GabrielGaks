@@ -29,18 +29,18 @@
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-<br/>
-<br/>
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-tawny-nine-69.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+/>
+
+<img 
+  align="left" 
+  alt="Top Langs" 
+  height="200" 
+  src="https://github-readme-stats-tawny-nine-69.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=9" 
+/>
+
 </p>
