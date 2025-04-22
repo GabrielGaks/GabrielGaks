@@ -30,10 +30,13 @@
 <p align="center">
   <img 
     height="200em" 
+    style="margin-right: 25px;" 
     src="https://github-readme-stats-tawny-nine-69.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=percentile&card_width=700" 
   />
+  
   <img 
     height="200em" 
+    style="margin-left: 25px;" 
     src="https://github-readme-stats-tawny-nine-69.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=9&hide_progress=false" 
   />
 </p>
