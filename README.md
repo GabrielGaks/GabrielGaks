@@ -1,6 +1,13 @@
-# Gabriel Oliveira de Souza Aguiar
+<h1 align="center">Gabriel Oliveira de Souza Aguiar</h1>
 
-**AI Engineer em formação | Engenharia de software, LLMs e automação**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+em+forma%C3%A7%C3%A3o;Software%2C+LLMs+e+automa%C3%A7%C3%A3o;Problemas+reais+virando+sistemas+em+produ%C3%A7%C3%A3o" alt="AI Engineer em formação; software, LLMs e automação; problemas reais virando sistemas em produção" />
+</div>
+
+<p align="center">
+  <a href="mailto:gabriel.260902@gmail.com"><img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-de-souza-aguiar-60643a266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 Estudante de Ciência da Computação na Universidade Vila Velha, com conclusão prevista para dezembro de 2027. Atuo com desenvolvimento full stack na Secretaria Municipal de Educação de Vitória/ES, da identificação do problema ao deploy e à manutenção de sistemas institucionais.
 
@@ -17,17 +24,23 @@ Minha experiência combina engenharia de software e IA aplicada: APIs, saídas e
 
 ## Projetos
 
-- **Aisely** — pipeline em desenvolvimento para extração e explicação de documentos médicos com FastAPI, OCR, LLMs, JSON Schema e testes automatizados.
-- **TrampoMatch** — matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
-- **[Assistente de medicamentos via WhatsApp](https://github.com/GabrielGaks/N8N_Assistente_Idosos)** — workflow público em n8n que consulta e atualiza dados após confirmação do usuário.
+- **Aisely** - pipeline em desenvolvimento para extração e explicação de documentos médicos com FastAPI, OCR, LLMs, JSON Schema e testes automatizados.
+- **TrampoMatch** - matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
+- **[Bem Lembrado](https://github.com/davicondeg/BemLembrado)** - assistente de lembretes e medicamentos para pessoas idosas, com painel web, integração ao WhatsApp e alertas para responsáveis.
 
 ## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,fastapi,postgres,supabase,docker,linux,git&theme=dark" alt="Python, TypeScript, Next.js, React, FastAPI, PostgreSQL, Supabase, Docker, Linux e Git" />
+</p>
 
 - **IA e dados:** LLMs, OCR, saída estruturada, engenharia de prompt, scikit-learn e pandas.
 - **Software:** Python, TypeScript, JavaScript, SQL, FastAPI, Flask, Next.js, React e APIs REST.
 - **Infraestrutura e qualidade:** PostgreSQL, Supabase, Linux, VPS, Nginx, GitHub Actions, Playwright, Pytest, Vitest e Cypress.
 
-## Contato
+## Atividade no GitHub
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-de-souza-aguiar-60643a266)
-- [E-mail](mailto:gabriel.260902@gmail.com)
+<div align="center">
+  <img height="165" src="https://github-readme-stats-tawny-nine-69.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Gabriel" />
+  <img height="165" src="https://github-readme-stats-tawny-nine-69.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=8&hide_border=true" alt="Linguagens mais usadas por Gabriel" />
+</div>
