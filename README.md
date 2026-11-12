@@ -25,7 +25,8 @@ Minha experiência combina engenharia de software e IA aplicada: APIs, saídas e
 ## Projetos
 
 - **Aisely** - pipeline em desenvolvimento para extração e explicação de documentos médicos com FastAPI, OCR, LLMs, JSON Schema e testes automatizados.
-- **TrampoMatch** - matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
+- **[Ark Dev · INOVAAPPS 2026](https://github.com/GabrielGaks/ArkDev-InovaApps2026)** - 3º lugar no desafio da Globalsys: predição de churn B2B com scikit-learn, sinais de uso de produto via tracking e gestão de retenção em React e TypeScript; projeto desenvolvido em grupo.
+- **[TrampoMatch](https://github.com/GabrielGaks/TrampoMatch)** - matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
 - **[Bem Lembrado](https://github.com/GabrielGaks/BemLembrado)** - assistente de lembretes e medicamentos para pessoas idosas, com painel web, integração ao WhatsApp e alertas para responsáveis.
 
 ## Tecnologias
