@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Oliveira de Souza Aguiar</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+em+forma%C3%A7%C3%A3o;Software%2C+LLMs+e+automa%C3%A7%C3%A3o;Problemas+reais+virando+sistemas+em+produ%C3%A7%C3%A3o" alt="AI Engineer em formação; software, LLMs e automação; problemas reais virando sistemas em produção" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=false&width=760&lines=AI+Engineer+em+forma%C3%A7%C3%A3o;Software%2C+LLMs+e+automa%C3%A7%C3%A3o;Problemas+reais+virando+sistemas+em+produ%C3%A7%C3%A3o" alt="AI Engineer em formação; software, LLMs e automação; problemas reais virando sistemas em produção" />
 </div>
 
 <p align="center">
@@ -41,6 +41,6 @@ Minha experiência combina engenharia de software e IA aplicada: APIs, saídas e
 ## Atividade no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-tawny-nine-69.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Gabriel" />
-  <img height="165" src="https://github-readme-stats-tawny-nine-69.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=8&hide_border=true" alt="Linguagens mais usadas por Gabriel" />
+  <img height="165" src="https://github-readme-stats-tawny-nine-69.vercel.app/api?username=GabrielGaks&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&custom_title=Estat%C3%ADsticas&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" alt="Estatísticas do GitHub de Gabriel" />
+  <img height="165" src="https://github-readme-stats-tawny-nine-69.vercel.app/api/top-langs/?username=GabrielGaks&layout=compact&count_private=true&langs_count=8&hide_border=true&custom_title=Linguagens+mais+usadas&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais usadas por Gabriel" />
 </div>
