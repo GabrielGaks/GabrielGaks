@@ -18,14 +18,13 @@ Minha experiência combina engenharia de software e IA aplicada: APIs, saídas e
 - Quatro sistemas institucionais desenvolvidos, três deles em produção.
 - SNAAM e Sunee: gestão de casos com Next.js, PostgreSQL/Supabase e assistente de IA com validação no servidor, listas permitidas e revisão humana.
 - Automações com Playwright executadas em VPS Linux, com systemd, Nginx e sincronizações agendadas.
-- 3º lugar no Hackathon INOVAAPPS 2026, contribuindo com um modelo de churn em scikit-learn.
+- 3º lugar no Hackathon INOVAAPPS 2026 com o [Ark Dev](https://github.com/GabrielGaks/ArkDev-InovaApps2026), contribuindo com um modelo de churn em scikit-learn.
 
 > Os sistemas institucionais não são publicados aqui por segurança e confidencialidade.
 
 ## Projetos
 
 - **Aisely** - pipeline em desenvolvimento para extração e explicação de documentos médicos com FastAPI, OCR, LLMs, JSON Schema e testes automatizados.
-- **[Ark Dev · INOVAAPPS 2026](https://github.com/GabrielGaks/ArkDev-InovaApps2026)** - 3º lugar no desafio da Globalsys: predição de churn B2B com scikit-learn, sinais de uso de produto via tracking e gestão de retenção em React e TypeScript; projeto desenvolvido em grupo.
 - **[TrampoMatch](https://github.com/GabrielGaks/TrampoMatch)** - matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
 - **[Bem Lembrado](https://github.com/GabrielGaks/BemLembrado)** - assistente de lembretes e medicamentos para pessoas idosas, com painel web, integração ao WhatsApp e alertas para responsáveis.
 
