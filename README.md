@@ -26,7 +26,7 @@ Minha experiência combina engenharia de software e IA aplicada: APIs, saídas e
 
 - **Aisely** - pipeline em desenvolvimento para extração e explicação de documentos médicos com FastAPI, OCR, LLMs, JSON Schema e testes automatizados.
 - **TrampoMatch** - matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
-- **[Bem Lembrado](https://github.com/davicondeg/BemLembrado)** - assistente de lembretes e medicamentos para pessoas idosas, com painel web, integração ao WhatsApp e alertas para responsáveis.
+- **[Bem Lembrado](https://github.com/GabrielGaks/N8N_Assistente_Idosos)** - assistente de lembretes e medicamentos para pessoas idosas, com painel web, integração ao WhatsApp e alertas para responsáveis.
 
 ## Tecnologias
 
