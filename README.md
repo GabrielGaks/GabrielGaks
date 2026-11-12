@@ -1,49 +1,33 @@
-# 👨🏻‍💻 Gabriel Oliveira de Souza Aguiar
+# Gabriel Oliveira de Souza Aguiar
 
-**`Desenvolvedor Back-End em formação`**
+**AI Engineer em formação | Engenharia de software, LLMs e automação**
 
-🎓 Estudante de Ciência da Computação na UVV  
-💻 Foco em Java | SQL | POO | Automação com N8N  
-☁️ Bootcamp Java + Cloud (Bradesco)  
-📊 Projetos com Java, Python, MySQL e automações  
-🚀 Buscando oportunidades como estagiário em back-end  
-📦 Empreendedor em tecnologia e importação de eletrônicos  
-<div> 
+Estudante de Ciência da Computação na Universidade Vila Velha, com conclusão prevista para dezembro de 2027. Atuo com desenvolvimento full stack na Secretaria Municipal de Educação de Vitória/ES, da identificação do problema ao deploy e à manutenção de sistemas institucionais.
 
-  <a href="https://instagram.com/gabrielgaks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.260902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-de-souza-aguiar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Minha experiência combina engenharia de software e IA aplicada: APIs, saídas estruturadas de LLMs, processamento de documentos, automações, testes, segurança e infraestrutura Linux.
 
----
+## Experiência em destaque
 
+- Quatro sistemas institucionais desenvolvidos, três deles em produção.
+- SNAAM e Sunee: gestão de casos com Next.js, PostgreSQL/Supabase e assistente de IA com validação no servidor, listas permitidas e revisão humana.
+- Automações com Playwright executadas em VPS Linux, com systemd, Nginx e sincronizações agendadas.
+- 3º lugar no Hackathon INOVAAPPS 2026, contribuindo com um modelo de churn em scikit-learn.
 
-### 🤖 Linguagens e Tecnologias
+> Os sistemas institucionais não são publicados aqui por segurança e confidencialidade.
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+## Projetos
 
-<br/>
-<br/>
+- **Aisely** — pipeline em desenvolvimento para extração e explicação de documentos médicos com FastAPI, OCR, LLMs, JSON Schema e testes automatizados.
+- **TrampoMatch** — matching entre candidatos e vagas com Python, Flask, RapidFuzz, score ponderado e critérios eliminatórios; projeto acadêmico desenvolvido em grupo.
+- **[Assistente de medicamentos via WhatsApp](https://github.com/GabrielGaks/N8N_Assistente_Idosos)** — workflow público em n8n que consulta e atualiza dados após confirmação do usuário.
 
----
+## Tecnologias
 
+- **IA e dados:** LLMs, OCR, saída estruturada, engenharia de prompt, scikit-learn e pandas.
+- **Software:** Python, TypeScript, JavaScript, SQL, FastAPI, Flask, Next.js, React e APIs REST.
+- **Infraestrutura e qualidade:** PostgreSQL, Supabase, Linux, VPS, Nginx, GitHub Actions, Playwright, Pytest, Vitest e Cypress.
 
-### 📊 Estatísticas do GitHub
+## Contato
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  <img 
-    height="200em" 
-    src="https://github-readme-stats-tawny-nine-69.vercel.app/api?username=GabrielGaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=percentile&card_width=700" 
-  />
-  
-  <img 
-    height="200em" 
-    src="https://github-readme-stats-tawny-nine-69.vercel.app/api/top-langs/?username=GabrielGaks&theme=tokyonight&layout=compact&count_private=true&langs_count=9&hide_progress=false" 
-  />
-</div>
+- [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-de-souza-aguiar-60643a266)
+- [E-mail](mailto:gabriel.260902@gmail.com)
